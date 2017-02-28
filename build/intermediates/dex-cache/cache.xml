@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_8ea9e504c5ebe67ab0be36da4f978adeba99dbfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_bbee28ae186e7a750f9327d54b4f57afb24eadc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="121666331ac687c0f00e2bd9aab5a0bf3d95f118">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_239c2e422e97dae2521ad7e296eeda6078e11115\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\com.bluelinelabs\conductor\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a53a290402717a07ccb7a3179b702a557b11aefd">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bluelinelabs-conductor-2.1.0_d6192c227d98e46784fa12fc4346208d101dc06c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_82a1d4946f3ac5b59a8da1d99e2ee39dd41e82ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_6b69fd9dbb1aa1ad86dc5fd9d0a99c517e53a674\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_8d3a7c146b8dcaa0b4bc6f192322057cf23e73a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.0.6\d19acb6ed49b9c48228c0e5dff8071fce23be4b8\kotlin-stdlib-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d19acb6ed49b9c48228c0e5dff8071fce23be4b8">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-1.0.6_1a8cd14e5a2128c26564d2634933d5c1e816bb79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getkeepsafe.relinker-relinker-1.2.2_34c2b0535a78f5a9cae11b031f4148127c3c0669\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_54ad35cb616d4093047df531f416ad8adc23c2c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_f4ccc2308ca620526b4cf9d6f85719c5e030d67e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\2.3.1\1c1c75a7e1dfee58c51822987dc658f93e036c81\realm-annotations-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c1c75a7e1dfee58c51822987dc658f93e036c81">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\realm-annotations-2.3.1_49aa3b2c6cdd27f594cb2ef50662f5efd892eeae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\io.realm\android-adapters\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="821de897b9350f9cb17f5f195a59dcf454bdba3d">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.realm-android-adapters-1.3.0_aae1e286230bb3964ec3da1bedb9ceec3d83a5a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\io.realm\realm-android-library\2.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="205155180b7747a96c076484ba0014e4bcacb33d">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.realm-realm-android-library-2.3.1_b398071b0bf05fbdbd9bd9981aacf8e95125aa70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_c6dd8d2800ff992919b1cc8829756261f7a501b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_162e9115b97c41820e9402dc8077bd52d76f549e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_942327b5265c1a8203570c2dbc750361f37f82eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-runtime\1.0.6\3562c66f648480d3bd4f76cff722488ced13445b\kotlin-runtime-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3562c66f648480d3bd4f76cff722488ced13445b">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-runtime-1.0.6_fc14671eaa276a3f9bc92c76e53f14d454a43e81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_f7d3fd6504a93d42dfbf9e501917bcfd4072721b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="951f12c4572363ab123a425384b2b5ddfe0f9358">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_41bd1c33804bd5208f7893b0c7e1db474e579c46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_9615dbea2ea40521bc38278f1b556d7750121b81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_eb9967eac939f0cffa04fc449dfe497dfb4c21d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Herbarium\app\build\intermediates\exploded-aar\com.bluelinelabs\conductor-support\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ae14d6223c5097f8b9c8d7af2aff87bdec682a2">
+        <dex dex="C:\Users\Admin\Herbarium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bluelinelabs-conductor-support-2.1.0_b80297673c1c5a5f862cae5f4d115f6af31f28b5\classes.dex" />
+    </item>
+
+</items>
